@@ -9,7 +9,7 @@ I started this project because I needed some logotypes that fontawesome does not
 
 1. Clone the repo
 ```console
-foo@bar:~$ git clone 
+foo@bar:~$ git clone https://github.com/aromn/fontchido.git
 ```
 2. Call the .css in your html file
 ```html
@@ -36,7 +36,7 @@ checking the style on the .css file to avoid conflicts.
 
 1. Clone the repo:
 ```console
-    foo@bar:~$ git clone 
+    foo@bar:~$ git clone https://github.com/aromn/fontchido.git
 ```
 2. Install fontforge. **NOTE:** THIS IS NOT A TUTORIAL TO LEARN HOW TO INSTALL/USE FONTFORGE.
 3. Run fontforge, and then open *fontchido.sfd* file
