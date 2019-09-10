@@ -27,7 +27,7 @@ alternatively you can do it like this:
     <span class="ic-archlinux" style="color: ; font-size: ; /* etc...*/"></span>
 ```
 	
-removing the font-size on the .css file.
+checking the style on the .css file to avoid conflicts.
 
 # Example:
 [![fontchido-demo.png](https://i.postimg.cc/Y01qrKMP/fontchido-demo.png)](https://postimg.cc/p5LtCS9Q)
