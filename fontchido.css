@@ -14,7 +14,7 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
+  font-size: 3rem;
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -22,52 +22,42 @@
 
 .ic-archlinux:before {
   content: "A";
-  font-size: 3rem;
 }
 
 .ic-archlinux-circle:before {
   content: "B";
-  font-size: 3rem;
 }
 
 .ic-upwork:before{
   content: "C";
-  font-size: 3rem;
 }
 
 .ic-upwork-circle:before{
   content: "D";
-  font-size: 3rem;
 }
 
 .ic-dotnet:before {
   content: "E";
-  font-size: 3rem;
 }
 
 .ic-codeigniter:before {
   content: "F";
-  font-size: 3rem;
 }
 
 .ic-laravel:before {
   content: "G";
-  font-size: 3rem;
 }
 
 .ic-taxcloud:before {
   content: "H";
-  font-size: 3rem;
 }
 
 .ic-chep:before {
   content: "I";
-  font-size: 3rem;
 }
 
 .ic-linux-tux:before {
   content: "J";
-  font-size: 3rem;
 }
 
 .ic-bash:before {
