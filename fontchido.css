@@ -70,18 +70,6 @@
   font-size: 3rem;
 }
 
-.ic-server:before {
-  content: "K";
-}
-
-.ic-webdevelopment:before {
-  content: "L";
-}
-
-.ic-webdevelopment-black:before {
-  content: "M";
-}
-
 .ic-bash:before {
     content: "N";
 }
