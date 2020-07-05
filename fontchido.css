@@ -21,45 +21,45 @@
 }
 
 .ic-archlinux:before {
-  content: "A";
+  content: "\0041";
 }
 
 .ic-archlinux-circle:before {
-  content: "B";
+  content: "\0042";
 }
 
 .ic-upwork:before{
-  content: "C";
+  content: "\0043";
 }
 
 .ic-upwork-circle:before{
-  content: "D";
+  content: "\0044";
 }
 
 .ic-dotnet:before {
-  content: "E";
+  content: "\0045";
 }
 
 .ic-codeigniter:before {
-  content: "F";
+  content: "\0046";
 }
 
 .ic-laravel:before {
-  content: "G";
+  content: "\0047";
 }
 
 .ic-taxcloud:before {
-  content: "H";
+  content: "\0048";
 }
 
 .ic-chep:before {
-  content: "I";
+  content: "\0049";
 }
 
 .ic-linux-tux:before {
-  content: "J";
+  content: "\004A";
 }
 
 .ic-bash:before {
-    content: "K";
+  content: "\004B";
 }
